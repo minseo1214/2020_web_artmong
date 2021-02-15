@@ -1,0 +1,30 @@
+#logo{
+    width: 20%;
+}
+header{
+    text-align: center;
+}
+
+.main_0{
+    text-align: center;
+}
+.parts{
+    width: 8%;
+}
+.Photos{
+    width: 100%;
+}
+ul{
+    
+    -webkit-padding-start: 0px;
+    list-style: none;
+}
+.Photo_4{
+    width: 100%;
+}
+.Photo1{
+    -webkit-padding-start: 0px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    width: 7%;
+}

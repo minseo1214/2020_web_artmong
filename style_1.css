@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+ 
+#logo{
+    width: 20%;
+}
+header{
+    text-align: center;
+}
+
+.main_0{
+    text-align: center;
+}
+
+.main_1{
+    text-align: left;    
+}
+.main_2{
+    text-align: right;
+}
+.main_3{
+    text-align: center;
+}
+.parts{
+    width: 8%;
+}
+.Photo_1{
+    width: 8%;
+    margin: 30px;
+}
+.Photo_2{
+    margin: 20px;
+    width: 50%;
+}
+.mini{
+    /* margin: 5%;
+    width: 10%; */
+    width: 50%;
+}
+.mini1{
+    width: 30%;
+}
+.Photo_3{
+    margin: 50px;
+    width: 50%;
+}
+ul{
+    -webkit-padding-start: 0px;
+    list-style: none;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+.img-box p{
+    font-family: 'Noto Serif KR', serif;
+    font-size: 1rem;
+}
+#p1{
+    padding-top: 22%;
+}
+#p2{
+    padding-top: 29%;
+}
+#p3{
+    padding-top: 11%;
+}

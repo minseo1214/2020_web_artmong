@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+    
+#logo{
+    width: 20%;
+}
+header{
+    text-align: center;
+}
+
+/* .main_0{
+    
+} */
+.parts{
+    text-align: center;
+    width: 8%;
+}
+.Photos{
+    text-align: center;
+    width: 100%;
+}
+.Photos_1{
+    padding-left: 5%;
+    text-align: center;
+    width: 40%;
+}
+ul{
+    
+    -webkit-padding-start: 0px;
+    list-style: none;
+}
+#main_2 {
+    display: flex;
+    align-items: center;
+}
+#main_2 .img-info {
+    align-items: center;
+    padding: 0 10%;
+}
+.img-info p{
+     font-family: 'Noto Serif KR', serif;
+     font-size: 1em;
+}
